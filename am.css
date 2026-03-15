@@ -295,7 +295,7 @@ nav a{
 }
 
 .hero-pic {
-  width: 250px;
+  width: 200px;
   z-index: 1;
   filter: drop-shadow(2px 2px 20px rgb(0, 140, 255));
 }
